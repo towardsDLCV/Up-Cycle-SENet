@@ -1,0 +1,14 @@
+einops==0.3.2
+pesq==0.0.2
+pypesq==1.2.4
+pystoi==0.3.3
+scipy==1.5.4
+seaborn==0.11.2
+tensorboard==2.10.0
+tensorboardX==2.4
+timm==0.6.5
+torch==1.7.0
+torchaudio==0.7.0
+torchsummary==1.5.1
+torchvision==0.8.0
+
